@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="section-TDF">
     <title>The Derivative Function</title>
@@ -351,4 +351,4 @@
             Derivative calculations involve a particular kind of limit calculation, and notice that these limit calculations, like before, rely crucially on algebra, not calculus. The only part where calculus is involved is for the limit calculation, which simply involves substituting in a value of a variable.
         </p>
     </subsection>
-</section>
+</section> -->

@@ -3,7 +3,7 @@
 <chapter xml:id="chapter-DT" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Differentiation Techniques</title>
         <introduction>
-            <p>
+            <!-- <p>
                 Calculating derivatives using the limit definition can be tedious and sometimes difficult, especially for more complicated functions. It turns out, there are various patterns and rules for computing derivatives of various functions, i.e. <term>differentiation rules</term>,
             </p>
             <ol>
@@ -12,7 +12,7 @@
             </ol>
             <p>
                 This is called <term>systematic differenitation</term>. Combining these two collections of rules will allow for computing derivatives of every elementary function covered in pre-calculus.
-            </p>
+            </p> -->
         </introduction>
 
         <xi:include href="./chapter-DT/section-BDR.ptx"/>
